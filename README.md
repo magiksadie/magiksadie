@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on anything- I'd love to learn more and work on more projects, if possible!
 - 💬 Ask me about birds! I have so many random bird facts.
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: when I'm not developing or playing games, I love to shoot my compound bow!🏹 
+- ⚡ When I'm not developing or playing games, I love to shoot my compound bow!🏹 
 
 
 <h3 align="center">Profile Stats</h3>
