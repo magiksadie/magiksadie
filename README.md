@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a [react recipe blog!](https://github.com/Erock42/FlavoredText/)
-- 🌱 I’m currently learning react, PWAs, and e-commerce!
+- 🌱 I’m currently learning PWAs, e-commerce, and .NET!
 - 👯 I’m looking to collaborate on anything- I'd love to learn more and work on more projects, if possible!
 - 💬 Ask me about birds! I have so many random bird facts.
 - 😄 Pronouns: she/they
